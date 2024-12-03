@@ -18,7 +18,7 @@ int main(void)
 			}
 	}
 	
-	//cout << "\nN is a prime number";
-	
+	cout << "\nN is a prime number";
+	cout << " ";
 	return 0;
 }
